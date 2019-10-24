@@ -88,7 +88,16 @@ Se muestra el resultado obtenido de cada una de las funciones. Dichas funciones 
 
 **2. Valor esperado y varianza**
 
+
 ![image](https://user-images.githubusercontent.com/54224317/67448869-f942e880-f5dd-11e9-91fc-ea7ec303ec68.png)
+
+
+
+**3. Valores y vectores propios**
+
+
+![image](https://user-images.githubusercontent.com/54224317/67449049-779f8a80-f5de-11e9-8a19-f9431520af3b.png)
+
 
 
 
