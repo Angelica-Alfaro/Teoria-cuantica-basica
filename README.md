@@ -1,4 +1,4 @@
-# Teoria-cuantica-basica
+# Teoría cuántica básica
 
 
 ***Encabezado:***
@@ -68,6 +68,12 @@ Se muestra el resultado obtenido de cada una de las funciones. Dichas funciones 
 
 
 • GitHub.
+
+***Pruebas***
+
+
+![image](https://user-images.githubusercontent.com/54224317/67448464-ab79b080-f5dc-11e9-8817-0d3eece9d3be.png)
+
 
 
 
