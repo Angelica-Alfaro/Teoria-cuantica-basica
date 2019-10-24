@@ -75,6 +75,18 @@ Se muestra el resultado obtenido de cada una de las funciones. Dichas funciones 
 ![image](https://user-images.githubusercontent.com/54224317/67448464-ab79b080-f5dc-11e9-8817-0d3eece9d3be.png)
 
 
+***Resultados***
+
+
+**1.Probabilidad**
+
+
+![image](https://user-images.githubusercontent.com/54224317/67448730-85084500-f5dd-11e9-89c8-3b460a908a16.png)
+![image](https://user-images.githubusercontent.com/54224317/67448736-8a658f80-f5dd-11e9-963b-9bc0c829a97e.png)
+![image](https://user-images.githubusercontent.com/54224317/67448743-8e91ad00-f5dd-11e9-8b94-d9f4ca186280.png)
+
+
+
 
 
 
